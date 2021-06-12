@@ -34,7 +34,7 @@
 - Triggers color-change animation in the overhead maze lights
 * PlayerJoystickController
 - code for joystick and movement for Chromoception
-*Unity Scenes listed as .unity files
+/br *Unity Scenes listed as .unity files
  * Requirements
  Android Device
  Unity to open .unity files
