@@ -10,29 +10,29 @@
  *MARLENE MCKINNEY*
  Marlene McKinney is a non-technical expert for Berry Tech with extensive anatomy knowledge and the ability to analyze journal articles in record time (may or may not be five minutes).
 * File List
-Credits
+* Credits
 - displays the end card of the app
-PlayerCollision
+* PlayerCollision
 - method for player's collision with obstacles in Cube Run
-PlayerMovement
+* PlayerMovement
 - movement of player in Cube Run
-EndTrigger
+* EndTrigger
 - trigger for the end of cube run and transition to the credits scene
-LevelComplete
+* LevelComplete
 - Loads the next scene in the group during Cube Run
-Score
+* Score
 - Updates distance for Cube Run starting at 0 and increasing by whole number
 followplayer
 - Camera is pinned to player to follow during movement (used for both Cube Run and the Chromoception Path)
-Menu
+* Menu
 - Title card for Cube Run, provides button to enter maze
-GameManager
+* GameManager
 - Shows level card when Cube Run levels are completed
-MiniGame
+* MiniGame
 - Ends Cube Run
-SkyTrigger
+* SkyTrigger
 - Triggers color-change animation in the overhead maze lights
-PlayerJoystickController
+* PlayerJoystickController
 - code for joystick and movement for Chromoception
 *Unity Scenes listed as .unity files
  * Requirements
