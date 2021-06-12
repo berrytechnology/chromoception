@@ -3,11 +3,11 @@
  Welcome to CHROMOCEPTION! Chromoception is a game designed to aid with mood management, specifically with depression. Throughout the game, you will make your way down a path that is designed to mediate your moods. The ambient lighting of the game will change as you go through the maze, going through a specific sequence of colors: #0944a1ff --> #cfe2f3ff --> #d392ffff --> #d5a6bdff --> #f9cb9cff --> #f6b26bff.
  At the end of this sequence, you will play a relaxing game of Cube Run, where the color theme is the same as the final color in the sequence. You will navigate a contantly moving cube along a path around obstacles. If you fail, don't worry! You can try again enless times. The absence of scores or rankings creates a stress-free environment for the player. Cube Run consists of three levels of increasing difficulty, and then Chromoception is finished!
  * Author Information
- *SHREYA KANNAN*
+ -*SHREYA KANNAN*
  Shreya Kannan is a coder and graphic designer for Berry Technology. She always is full of scientific ideas and dabbles in video editing (which made ours really cute).
- *BETHANY SIEGEL*
+ -*BETHANY SIEGEL*
  Bethany Siegel is a coder for Berry Technology. She enjoys anything potato along with all food (besides vegetables). She saw learning Unity for this project as an enriching experience.
- *MARLENE MCKINNEY*
+ -*MARLENE MCKINNEY*
  Marlene McKinney is a non-technical expert for Berry Tech with extensive anatomy knowledge and the ability to analyze journal articles in record time (may or may not be five minutes).
 * File List
 Credits
